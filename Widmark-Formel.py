@@ -1,5 +1,5 @@
 # Widmark-Formel Programm
-# von mir
+# von Judith und Rosalie 
 
 #Überschrift
 print("Dieses Programm berechnet den Blutalkoholwert in Promille")
